@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-![brazza GitHub stats](https://github-readme-stats.vercel.app/api?username=odevbrazza&show_icons=true&theme=algolia&count_private=true)
+![brazza GitHub stats](https://github-readme-stats.vercel.app/api?username=odevbrazza&show_icons=true&theme=github_dark&count_private=true)
 
 ### Tecnologias que estudo atualmente
 
