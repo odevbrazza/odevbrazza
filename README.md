@@ -1,13 +1,13 @@
-### E ai! Eu sou o brazza ✌
+## E ai! Eu sou o brazza ✌
 
-## Redes sociais
+### Redes sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cristopherdornelas)
 
 ![brazza GitHub stats](https://github-readme-stats.vercel.app/api?username=odevbrazza&show_icons=true&theme=github_dark&count_private=true)
 
 
-## Tecnologias que estudo atualmente
+### Tecnologias que estudo atualmente
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
