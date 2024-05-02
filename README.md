@@ -1,6 +1,6 @@
 ### E ai! Eu sou o brazza ✌
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cristopherdornelas)
 
 ![brazza GitHub stats](https://github-readme-stats.vercel.app/api?username=odevbrazza&show_icons=true&theme=github_dark&count_private=true)
 
