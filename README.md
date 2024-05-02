@@ -13,4 +13,4 @@
   
 </div><br/>
 
-Estudante de Biologia se aventurando no mundo tecnológico
+Estudante de Biologia aventurando-se no mundo tecnológico
